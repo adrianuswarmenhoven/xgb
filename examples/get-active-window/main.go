@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/BurntSushi/xgb"
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/adrianuswarmenhoven/xgb"
+	"github.com/adrianuswarmenhoven/xgb/xproto"
 )
 
 func main() {
